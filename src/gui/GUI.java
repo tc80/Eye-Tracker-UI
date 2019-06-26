@@ -2,6 +2,7 @@ package gui;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.KeyEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
@@ -9,8 +10,21 @@ import java.util.List;
 
 final class GUI extends JFrame {
 
-    GUI() {
+    private GUI() {
+        new Thread(GUI::run).start();
         init();
+    }
+
+    private static void run() {
+        try {
+            Robot r = new Robot();
+            while (true) {
+               
+                r.keyRelease(KeyEvent.VK_CAPS_LOCK);
+                Thread.sleep(5);
+            }
+        } catch (Exception ignored) {
+        }
     }
 
     private void init() {
