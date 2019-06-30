@@ -1,0 +1,11 @@
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Debug\EyeTrackerBackend.exe.config
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Debug\EyeTrackerBackend.exe
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Debug\EyeTrackerBackend.pdb
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Debug\EyeTrackerBackend.csprojAssemblyReference.cache
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Debug\EyeTrackerBackend.csproj.CoreCompileInputs.cache
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Debug\EyeTrackerBackend.exe
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Debug\EyeTrackerBackend.pdb
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Debug\EyeTrackerBackend.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Release\EyeTrackerBackend.exe.config
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Release\EyeTrackerBackend.exe
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\bin\Release\EyeTrackerBackend.pdb
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Release\EyeTrackerBackend.csproj.CoreCompileInputs.cache
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Release\EyeTrackerBackend.exe
+C:\Users\Ty-PC\Desktop\EyeTrackerBackend\EyeTrackerBackend\EyeTrackerBackend\obj\Release\EyeTrackerBackend.pdb
